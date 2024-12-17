@@ -1,0 +1,4 @@
+ultralytics 
+flask 
+flask-mqtt 
+opencv-python
